@@ -1,14 +1,134 @@
-body{
-    font-family: Arial, sans-serif;
-    background:#f5f5f5;
-    text-align:center;
-    margin-top:100px;
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+/* Reset */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
 }
+
+/* Body */
+
+body{
+
+    font-family:'Poppins',sans-serif;
+
+    background:#f5f7fb;
+
+    color:#333;
+
+    max-width:900px;
+
+    margin:auto;
+
+    padding:40px;
+
+    line-height:1.8;
+
+}
+
+/* Headings */
 
 h1{
-    color:#0078D4;
+
+    color:#1976d2;
+
+    font-size:48px;
+
+    margin-bottom:10px;
+
 }
 
+h2{
+
+    margin-top:30px;
+
+    margin-bottom:15px;
+
+    color:#222;
+
+}
+
+h3{
+
+    margin-top:15px;
+
+    color:#1976d2;
+
+}
+
+/* Sections */
+
+section{
+
+    background:white;
+
+    padding:30px;
+
+    margin:30px 0;
+
+    border-radius:15px;
+
+    box-shadow:0 5px 15px rgba(0,0,0,0.08);
+
+}
+
+/* Header */
+
+header{
+
+    text-align:center;
+
+    margin-bottom:40px;
+
+}
+
+/* Paragraph */
+
 p{
-    font-size:20px;
+
+    margin:15px 0;
+
+}
+
+/* Skills */
+
+ul{
+
+    padding-left:20px;
+
+}
+
+li{
+
+    margin-bottom:10px;
+
+}
+
+/* Links */
+
+a{
+
+    color:#1976d2;
+
+    text-decoration:none;
+
+    font-weight:500;
+
+}
+
+a:hover{
+
+    text-decoration:underline;
+
+}
+
+/* Line */
+
+hr{
+
+    display:none;
+
 }
