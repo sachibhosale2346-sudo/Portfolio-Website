@@ -1,19 +1,23 @@
 # Portfolio Roadmap
 
-## Completed
-- Hero section
-- About section
-- Skills section
-- Projects section
-- Career Goal
-- Contact section
-- Footer
-- GitHub & LinkedIn links
+## ✅ Version 1 Completed
 
-## Remaining
-- Improve CSS design
-- Mobile responsiveness
-- Resume download button
-- Project screenshots
-- Favicon
-- SEO meta description
+- Responsive Landing Page
+- About Section
+- Skills Section
+- Projects Section
+- Career Goal
+- Contact Section
+- GitHub & LinkedIn Links
+- README
+- MIT License
+- .gitignore
+
+## 🔜 Version 2 (Future Improvements)
+
+- Resume Download Button
+- Dark / Light Theme Toggle
+- Project Screenshots
+- Blog Section
+- Contact Form
+- Deployment Analytics
